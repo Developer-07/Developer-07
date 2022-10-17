@@ -2,7 +2,7 @@
 - 👀 I’m interested in dynamic websites (PHP) & static websites (HTML)
 - 🌱 I’m currently learning PHP & HTML
 - 💞️ I’m looking to collaborate on websites, Python apps, etc.
-- 📫 How to reach me: Discord: Stg. Developer-07
+- 📫 How to reach me: Discord: Developer-07
 
 <!---
 Developer-07/Developer-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
