@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Developer-07
 - 👀 I’m interested in dynamic websites (PHP) & static websites (HTML)
-- 🌱 I’m currently learning PHP & HTML
+- 🏢 Woker at Artim-Industries
+- 👨‍🏫 Teacher at Artim-Academy
 - 💞️ I’m looking to collaborate on websites, Python apps, etc.
 - 📫 How to reach me: Discord: Developer-07
 
